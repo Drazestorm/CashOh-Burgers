@@ -1,6 +1,6 @@
 # CashOh Burrger 🍔
 
-![Logo](/images/KitchenChaosLogo.png)
+![Logo](/images/Logo.png)
 
 A 3D kitchen cooking arcade game built with Unity where players manage kitchen tasks, prepare dishes, and serve orders under time pressure.
 
