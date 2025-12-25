@@ -59,10 +59,7 @@ Example: ![Game Controls](./docs/images/controls.png)
 - **Additional**: Keyboard required for input
 
 ### Installation
-1. Download the latest release from the [Releases](../../releases) page
-2. Extract the ZIP file to your desired location
-3. Run the executable file (`.exe` for Windows, `.app` for macOS)
-4. Enjoy the game!
+Go to my itch.io, you can play it on the web: "https://drazestorm.itch.io/cashohs-burgers"
 
 ---
 
