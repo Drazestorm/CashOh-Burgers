@@ -125,13 +125,13 @@ Assets/
 
 #### Prerequisites
 - Unity Hub installed
-- Unity Editor 2022.3 LTS or later
-- Git (for version control)
+- Unity Editor 6
+- Git (
 
 #### Getting Started
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Drazestorm/CashOh-Burgers.git
    cd Kitchen-Arcade-3D
    ```
 
@@ -175,9 +175,9 @@ Assets/
 
 ### Contributing
 1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
 5. Submit a pull request
 
 ### Known Issues
@@ -189,28 +189,6 @@ Assets/
 - More kitchen equipment types
 - Level progression system
 - Customizable kitchens
+- Customer at the counters.
 
 ---
-
-## 📝 License
-[Add your license information here]
-
-## 🙏 Credits
-- **CodeMonkey**: Tutorial assets and base implementation
-- **Unity Technologies**: Unity Engine and packages
-
-## 📧 Contact
-[Add your contact information here]
-
----
-
-### 📸 Image Placement Guide
-
-Create a `docs/images/` folder in your project root and place images as follows:
-
-1. **banner.png** (Line 3): Main game logo/banner - 1200x400px
-2. **gameplay-1.png** (Line 10): Main gameplay screenshot - 1920x1080px
-3. **features.png** (Line 29): Features showcase - 1920x1080px
-4. **controls.png** (Line 46): Controls/UI reference - 1280x720px
-
-Then uncomment the image lines in the README and update the paths.
